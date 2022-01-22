@@ -1,8 +1,8 @@
 ### Hi there, I'm Diego 👋
 
-🌱 I’m currently learning back-end content.
-📆 2022 Goals: Become a Full Stack developer.
-⚡ Fun fact: I am passionate to cars, a true gearhead. I am also an economy enjoyer.
+🌱 I’m currently learning back-end content.<br>
+📆 2022 Goals: Become a Full Stack developer.<br>
+⚡ Fun fact: I am passionate to cars, a true gearhead. I am also an economy enjoyer.<br>
 <!--
 **diego-carneiro/diego-carneiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
