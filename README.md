@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🌱 I’m currently learning back-end content.
+
+⚡ Fun fact: I am passionate to cars, a true gearhead. I am also an economy enjoyer.
 <!--
 **diego-carneiro/diego-carneiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
