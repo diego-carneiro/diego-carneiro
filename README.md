@@ -1,6 +1,4 @@
 ## Hi there, I'm Diego ✌ 
-
-
 <div align="center">
   <a href="https://github.com/diego-carneiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diego-carneiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -14,13 +12,10 @@
 </div>
   
 ##
+  
   [![wakatime](https://wakatime.com/badge/user/8c257da0-6aaa-4104-b498-b8bf04a1f6ec.svg)](https://wakatime.com/@8c257da0-6aaa-4104-b498-b8bf04a1f6ec)
   <div style="display: inline_block"> 
   <a href="https://www.instagram.com/diego.carneiro_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:diegosantos.cs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carneiro-diego/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-  
-  
-  
-
