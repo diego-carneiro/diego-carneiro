@@ -9,6 +9,12 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/121258433-2d504780-c8af-11eb-8324-92f1305ded79.png">
+  <img align="center" alt="CSS" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png">
+  <img align="center" alt="CSS" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png">
+  <img align="center" alt="CSS" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png">
+  <img align="center" alt="CSS" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/117448384-f9e06d00-af3e-11eb-9e02-a05bead103cf.png">
+  <img align="center" alt="CSS" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png">
 </div>
   
 ##
